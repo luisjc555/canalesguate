@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 ,Canal 3
+
+https://dslvfq5ee0geu.cloudfront.net/hls/canal3_360.m3u8
+
+
+#EXTINF:-1 ,Canal 7
+
+https://dslvfq5ee0geu.cloudfront.net/hls/canal7_360.m3u8
+
+#EXTINF:-1 ,Canal Guatevison
+
+https://prensalibre-live.cdn.vustreams.com/live/cd8f5328-7a1c-49d9-b318-9190858d1826/live.isml/live-audio_track_0_0_und=64000-video_track=2000000.m3u8
+
+
+#EXTINF:-1 ,Canal TN23
+
+https://dslvfq5ee0geu.cloudfront.net/hls/canal23_360.m3u8
